@@ -13,11 +13,12 @@
 /storage/trading-view-pine-editor/*.txt
 /storage/temp/optimize/*.pickle
 /storage/orders/*.json
-/storage/logs/trades/*.json
-/storage/logs/collect.txt
-/storage/logs/optimize.txt
-/storage/logs/live-trade.txt
-/storage/logs/paper-trade.txt
+/storage/logs
+# /storage/logs/trades/*.json
+# /storage/logs/collect.txt
+# /storage/logs/optimize.txt
+# /storage/logs/live-trade.txt
+# /storage/logs/paper-trade.txt
 /storage/genetics/*.txt
 /storage/csv/*.csv
 /storage/json/*.json
